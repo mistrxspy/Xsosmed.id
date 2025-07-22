@@ -1,0 +1,204 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Xsosmed.id</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+    body {
+      margin: 0;
+      font-family: 'Share Tech Mono', monospace;
+      background-color: #0a0f0f;
+      color: #00ffcc;
+    }
+    header {
+      background-color: #001a14;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 0 10px #00ff99;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      color: #00ff99;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #002d22;
+      box-shadow: 0 0 5px #00ff99;
+    }
+    nav a {
+      padding: 15px 30px;
+      text-decoration: none;
+      color: #00ffcc;
+      transition: background-color 0.3s;
+    }
+    nav a:hover {
+      background-color: #004433;
+    }
+    .container {
+      padding: 30px;
+    }
+    h2 {
+      text-align: center;
+      color: #00ff99;
+      margin-top: 40px;
+    }
+    .label {
+      background-color: #003322;
+      padding: 10px;
+      border-left: 5px solid #00ff99;
+      font-weight: bold;
+      margin: 30px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #00ff99;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #002d22;
+    }
+    tr:nth-child(even) {
+      background-color: #001a14;
+    }
+    form {
+      background-color: #001a14;
+      padding: 20px;
+      border: 1px solid #00ff99;
+      box-shadow: 0 0 10px #00ff99;
+      max-width: 600px;
+      margin: 40px auto;
+    }
+    form input, form select, form button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      background-color: #0a0f0f;
+      color: #00ffcc;
+      border: 1px solid #00ff99;
+    }
+    form button {
+      cursor: pointer;
+      background-color: #00ff99;
+      color: #000;
+      font-weight: bold;
+    }
+    .icon {
+      width: 20px;
+      height: 20px;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+    .admin-panel {
+      background-color: #001a14;
+      border: 1px solid #00ff99;
+      padding: 20px;
+      margin: 50px auto;
+      max-width: 600px;
+      text-align: center;
+      box-shadow: 0 0 10px #00ff99;
+    }
+    .admin-panel h3 {
+      color: #00ff99;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Xsosmed.id</h1>
+    <p>Jual Akun Instagram & Facebook Aktif dan Siap Pakai</p>
+  </header>
+  <nav>
+    <a href="#harga">Daftar Harga</a>
+    <a href="#order">Order</a>
+    <a href="#admin">Kontak</a>
+    <a href="#keterangan">Keterangan</a>
+  </nav>
+  <div class="container">
+    <div class="label"> Diawasi oleh Xspy.net</div><h2 id="harga">Daftar Harga Akun Instagram</h2>
+<table>
+  <tr><th>No</th><th>Nama Produk</th><th>Niche</th><th>Harga</th><th>Status</th><th>Kode</th></tr>
+  <tr><td>1</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG  50 - 100 Followers </td><td>Polosan</td><td>Rp.15.838</td><td> Tersedia</td><td>IN001</td></tr>
+  <tr><td>2</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 150 - 200 Followers</td><td>Segar</td><td>Rp.24.534</td><td> Tersedia</td><td>IN002</td></tr>
+  <tr><td>3</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 250 - 300 Followers</td><td>Random</td><td>Rp.33.502</td><td> Tersedia</td><td>IN003</td></tr>
+  <tr><td>4</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 350 - 400 Followers</td><td>Campuran</td><td>Rp.45.838</td><td> Tersedia</td><td>IN004</td></tr>
+  <tr><td>5</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 450 - 500 Followers</td><td>Unchek</td><td>Rp.57.534</td><td> Tersedia</td><td>IN005</td></tr>
+  <tr><td>6</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 550 - 600 Followers</td><td>Fanspage</td><td>Rp.66.502</td><td> Tidak Tersedia</td><td>IN006</td></tr>
+  <tr><td>7</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 660 - 700  Followers</td><td>Segar</td><td>Rp.73.502</td><td> Tidak Tersedia</td><td>IN007</td></tr>
+  <tr><td>8</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 750 - 800 Followers</td><td>Fresh</td><td>Rp.86.838</td><td> Tidak Tersedia</td><td>IN008</td></tr>
+  <tr><td>9</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 850 - 900 Followers</td><td>Random</td><td>Rp.93.534</td><td> Tidak Tersedia</td><td>IN009</td></tr>
+  <tr><td>10</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon">Akun IG 950 - 1000 Followers</td><td>Fanspage</td><td>Rp.125.502</td><td> Tidak Tersedia</td><td>IN010</td></tr>
+</table>
+
+<h2>Daftar Harga Akun Facebook</h2>
+<table>
+  <tr><th>No</th><th>Nama Produk</th><th>Niche</th><th>Harga</th><th>Status</th><th>Kode</th></tr>
+  <tr><td>1</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2016  )</td><td>Old </td><td>Rp.49.989</td><td> Tersedia</td><td>FB001</td></tr>
+  <tr><td>2</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2017  )</td><td>Old</td><td>Rp.43.589</td><td> Tersedia</td><td>FB002</td></tr>
+  <tr><td>3</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2018  )</td><td>Old</td><td>Rp.35.504</td><td> Tersedia</td><td>FB003</td></tr>
+  <tr><td>4</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2019  )</td><td>Old</td><td>Rp.31.147</td><td> Tersedia</td><td>FB004</td></tr>
+  <tr><td>5</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2020  )</td><td>Old</td><td>Rp.27.428</td><td> Tersedia</td><td>FB005</td></tr>
+  <tr><td>6</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2021  )</td><td>Old</td><td>Rp.23.309</td><td> Tersedia</td><td>FB006</td></tr>
+  <tr><td>7</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2022  )</td><td>New</td><td>Rp.20.504</td><td> Tidak Tersedia</td><td>FB007</td></tr>
+  <tr><td>8</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2023  )</td><td>New</td><td>Rp.15.747</td><td> Tidak Tersedia</td><td>FB008</td></tr>
+  <tr><td>9</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2024  )</td><td>New</td><td>Rp.10.245</td><td> Tidak Tersedia</td><td>FB009</td></tr>
+  <tr><td>10</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>New</td><td>Rp.7.504</td><td> Tersedia</td><td>FB010</td></tr>
+  <tr><td>11</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Bisnis</td><td>Rp.28.147</td><td> Tersedia</td><td>FB011</td></tr>
+  <tr><td>12</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Pluss Ig</td><td>Rp.50.428</td><td> Tersedia</td><td>FB012</td></tr>
+  <tr><td>13</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Publik</td><td>Rp.20.504</td><td> Tersedia</td><td>FB013</td></tr>
+  <tr><td>14</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Cracker</td><td>Rp.25.147</td><td> Tersedia</td><td>FB014</td></tr>
+  <tr><td>15</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Checker</td><td>Rp.22.428</td><td> Tersedia</td><td>FB015</td></tr>
+  <tr><td>16</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Market</td><td>Rp.45.504</td><td> Tidak Tersedia</td><td>FB016</td></tr>
+  <tr><td>17</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Random</td><td>Rp.30.504</td><td> Tidak Tersedia</td><td>FB017</td></tr>
+  <tr><td>18</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>New 2</td><td>Rp.37.147</td><td> Tersedia</td><td>FB018</td></tr>
+  <tr><td>19</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Berita</td><td>Rp.114.428</td><td> Tidak Tersedia</td><td>FB019</td></tr>
+  <tr><td>20</td><td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" class="icon">Akun FB (  2025  )</td><td>Seleb</td><td>Rp.152.504</td><td> Tidak Tersedia</td><td>FB020</td></tr>
+</table>
+
+<h2 id="order">Form Order via WhatsApp</h2>
+<form onsubmit="submitForm(event)">
+  <input type="text" id="nama" placeholder="Nama Anda" required />
+  <input type="text" id="produk" placeholder="Kode Produk (misal: IG001)" required />
+  <input type="number" id="jumlah" placeholder="Jumlah" required />
+  <input type="text" id="catatan" placeholder="Catatan Tambahan (opsional)" />
+  <button type="submit">Kirim Order ke WhatsApp</button>
+</form>
+
+<div id="keterangan" class="Keterangan">
+  <h3>Keterangan</h3>
+  <p>Q: Apakah akunnya aman</p>
+  <p>A: Tentu saja</p>
+  <p>Q: Apakah bisa request akun?</p>
+  <p>A: Tentu saja</p>
+  
+  <p>Akun yang saya jual itu hasil dari Cracker akun lama yang sudha tidak terpakai</p>
+  <p>Akun lama tapi berkualitas</p>
+  <p>Akun siap pakai tidak perlu mengganti data (karena email/nomor yang tercantum tidak aktif) </p>
+  <p>Harga murah dan terjangkau</p>
+  <p>Bergaransi 1 - 2 minggu</p>
+  <p>Jika ada kesalahan pada akun langsung ajukan pengembalian atau minta ganti akun</p>
+<div id="kontak" class="Kontak">
+  <h3>Kontak</h3>
+  <p>Owner: Mr.Xspy | Email: mistrxspy24@yahoo.com | Call: +6283194671384</p>
+</div>
+
+  </div>  <script>
+    function submitForm(e) {
+      e.preventDefault();
+      const nama = document.getElementById('nama').value;
+      const produk = document.getElementById('produk').value;
+      const jumlah = document.getElementById('jumlah').value;
+      const catatan = document.getElementById('catatan').value;
+      const noWA = '6283194671384';
+      const pesan = `Halo saya ingin order:\nNama: ${nama}\nKode Produk: ${produk}\nJumlah: ${jumlah}\nCatatan: ${catatan}`;
+      window.open(`https://wa.me/6283194671384?text=${encodeURIComponent(pesan)}`, '_blank');
+    }
+  </script></body>
+</html>
